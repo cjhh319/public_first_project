@@ -86,6 +86,8 @@ int main(void)
   HAL_Init();
 
   /* USER CODE BEGIN Init */
+  
+  //added example code.
 
   /* USER CODE END Init */
 
