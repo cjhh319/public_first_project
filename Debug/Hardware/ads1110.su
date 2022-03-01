@@ -1,0 +1,2 @@
+ads1110.c:14:6:InitADS1110	16	static
+ads1110.c:50:5:ReadAD	24	static

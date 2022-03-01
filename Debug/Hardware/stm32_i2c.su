@@ -1,0 +1,12 @@
+stm32_i2c.c:4:5:I2C_Open	32	static
+stm32_i2c.c:29:6:I2C_SendStart	32	static
+stm32_i2c.c:48:6:I2C_Stop	32	static
+stm32_i2c.c:65:6:I2C_Ack	32	static
+stm32_i2c.c:83:6:I2C_NAck	32	static
+stm32_i2c.c:101:9:I2C_Wait_Ack	40	static
+stm32_i2c.c:129:6:I2C_Send_Byte	40	static
+stm32_i2c.c:157:9:I2C_Read_Byte	40	static
+stm32_i2c.c:185:6:I2C_WriteBytes	32	static
+stm32_i2c.c:196:6:I2C_WriteBytesNoAddr	32	static
+stm32_i2c.c:206:9:I2C_ReadByte	24	static
+stm32_i2c.c:222:6:I2C_ReadBytesNoAddr	40	static

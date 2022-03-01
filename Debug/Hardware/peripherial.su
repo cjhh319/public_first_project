@@ -1,0 +1,7 @@
+peripherial.c:10:6:PowerOn	8	static
+peripherial.c:15:6:PowerOff	8	static
+peripherial.c:20:6:TurnOnPowerLED	8	static
+peripherial.c:25:6:TurnOffPowerLED	8	static
+peripherial.c:30:6:TurnOnBoardLED	16	static
+peripherial.c:38:6:TurnOffBoardLED	16	static
+peripherial.c:46:6:ToggleBoardLED	16	static
